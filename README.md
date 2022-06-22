@@ -5,7 +5,8 @@
 
   <p>Student at Suez Canal University faculty of Engineering, computer department</p>
   <p>Volunteer software developer @ BridgingTech</p>
-  <p>Currently taking Cisco introduction to networks course</p>
+  <p>Currently focused on learning about linux system and bash scripting.</p>
+  <p>Passionate about problem solving and algorithms</p>
   <p>Learning new tools and frameworks daily</p>
   <p>Fast learner and hardworker<p/>
   
